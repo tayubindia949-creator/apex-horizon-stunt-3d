@@ -1,0 +1,6 @@
+{
+  "name": "Apex Horizon Stunt 3D",
+  "description": "3D Car Driving and Stunt Racing Game with Android Studio Project & Unity Ads SDK 4.22.0 Integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
